@@ -20,6 +20,6 @@ usage: java -jar gmNFSStat.jar
  -i,--iterate <arg>   number fo iterations (default = 3)
  -o,--output <arg>    result file
  -s,--size <arg>      size of test file in MB (default = 5)
-    --silent     full silent mode. No out (can use with --output). Ignored if verbose enabled
+    --silent     full silent mode. No out (can used with --output). Ignored if verbose enabled
  -v,--verbose    enable verbose output
  </pre>
