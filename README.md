@@ -9,6 +9,7 @@ usage: java -jar gmNFSStat.jar
  -o,--output <arg>    result file
  -s,--size <arg>      size of test file in MB (default = 5)
     --silent     full silent mode. No out (can used with --output). Ignored if verbose enabled
+ -t,--timeout <arg>   running timeout in seconds (default = 10)
  -v,--verbose    enable verbose output
  </pre>
 
